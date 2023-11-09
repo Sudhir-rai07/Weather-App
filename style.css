@@ -1,0 +1,19 @@
+/* .container {
+    width: ;
+} */
+
+.box {
+  height: 250px;
+  margin: auto;
+  /* border: 2px solid; */
+  box-shadow: 0 0 4px black;
+}
+
+.temp-box {
+height: 150px;
+width: 160px;
+border-radius: 51px;
+background: #ffffff;
+box-shadow:  12px 12px 24px #868686,
+             -12px -12px 24px #ffffff;
+}
